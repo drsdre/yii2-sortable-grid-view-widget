@@ -20,7 +20,7 @@
     },
     "suggest": {
         "kartik-v/yii2-dynagrid": "*"
-    }
+    },
     "autoload": {
         "psr-4": {"himiklab\\sortablegrid\\": ""}
     }
